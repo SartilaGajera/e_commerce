@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936524927620",
+    "project_id": "eeommerce-adfec",
+    "storage_bucket": "eeommerce-adfec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936524927620:android:b8dff325ffdbb4394428d1",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936524927620-j9st82daf0e8g3v1ke4carr3hhv6q4ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_K1BxiVdGIwQUrHLFMqZHWKMT_5BFmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936524927620-j9st82daf0e8g3v1ke4carr3hhv6q4ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
